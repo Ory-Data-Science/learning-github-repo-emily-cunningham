@@ -1,0 +1,13 @@
+List all the kinds of Data you will interact with as a Pharmacist. Collaborate ideas with a classmate.
+
+Types of Pharmacy Data:
+1. Therapeutic indexes of drugs (LD50/ED50)
+2. Organizing data to correlate weight and appropriate dosing for children
+3. Safe and unsafe treatments for pregnant women
+4. Max daily dosing for narcotics
+5. Fee structures for drug copays
+6. Tracking paid and unpaid deductables for patients drug coverage
+7. Drug class interactions
+8. Patient dose history and change over time
+9. Drug recall data
+10. Maintaining organized drug inventory in the pharmacy
